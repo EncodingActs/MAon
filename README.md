@@ -19,5 +19,15 @@ The Named Individuals delivers a comprehensive semantic datafication of essentia
 **Suggested citation:**
 > Hou, Yumeng, and Sarah Kenderdine. "Ontology-based Knowledge Representation for Traditional Martial Arts." Digital Scholarship in the Humanities. DOI: https://doi.org/10.1093/llc/fqae005
 
+BibTeX
+> @article{hou2024ontology,
+  title={Ontology-based knowledge representation for traditional martial arts},
+  author={Hou, Yumeng and Kenderdine, Sarah},
+  journal={Digital Scholarship in the Humanities},
+  pages={fqae005},
+  year={2024},
+  publisher={Oxford University Press}
+}
+
 **Lead author:**
 Yumeng HOU [[ORCID](https://orcid.org/0000-0002-7908-0693 "ORCID")]
